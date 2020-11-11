@@ -1,2 +1,2 @@
 # createcv
-create cv
+create cv / tạo cvs
